@@ -1,0 +1,57 @@
+# ------------------------
+# Trained models
+# ------------------------
+*.h5
+*.hdf5
+*.pkl
+*.ckpt
+*.npy
+*.npz
+*.pt
+*.onnx
+
+# ------------------------
+# Environment / secrets
+# ------------------------
+.env
+.venv/
+env/
+__pycache__/
+
+# ------------------------
+# IDE / Editor settings
+# ------------------------
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# ------------------------
+# Python cache
+# ------------------------
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# ------------------------
+# Jupyter notebooks
+# ------------------------
+.ipynb_checkpoints/
+
+# ------------------------
+# System / OS files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Streamlit temp files / logs
+# ------------------------
+.streamlit/
+*.log
+
+# ------------------------
+# Other
+# ------------------------
+*.sqlite

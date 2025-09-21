@@ -1,0 +1,7 @@
+numpy
+pillow
+streamlit
+tensorflow
+h5py
+huggingface_hub
+python-dotenv
