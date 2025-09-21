@@ -52,6 +52,10 @@ HF_TOKEN=your_huggingface_token
 ```bash
 streamlit run main.py
 ```
+## Live Demo
 
+You can try the deployed app here: [Plants Disease Classifier](https://plants-disease-prediction-using-cnn-3.onrender.com/)
+
+---
 
 
