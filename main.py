@@ -9,14 +9,8 @@ import os
 from dotenv import load_dotenv
 
 
-os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'  
-
-
-st.set_option('browser.gatherUsageStats', False)
-
-
 load_dotenv()
-HF_TOKEN = os.getenv("HF_TOKEN")  # Hugging Face token
+HF_TOKEN = os.getenv("HF_TOKEN")  
 
 
 BASE_DIR = Path(__file__).resolve().parent
